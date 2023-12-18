@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "75598471722",
+    "project_id": "librongjamesrjv",
+    "storage_bucket": "librongjamesrjv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75598471722:android:35840636d5c5bed18f5953",
+        "android_client_info": {
+          "package_name": "com.rondolphcardozo.librongjamesrjv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVFIlnksDew_x7lumKQ0GIDRnDh5rWOu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
